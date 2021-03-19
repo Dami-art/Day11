@@ -7,5 +7,5 @@ var myItems = [ ...arr];
 return myItems
 //code under
 }
-console.log(myArrayFunction());
+console.log(myArrayFunction(myItems));
 module.exports = myArrayFunction;
