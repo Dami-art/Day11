@@ -12,7 +12,12 @@ function myArrayFunction(arr) {
 var newTemps = [...arr];
 var averageDayTemp = [];
 //change code below
+for(int i=0); i<arr.length; i++) {
+    averageDayTemp = averageDayTemp + arr[i];
+}
+newTemps average = averageDayTem/arr.length;
 return averageDayTemp;
 }
 console.log(myArrayFunction());
 module.exports = myArrayFunction;
+
