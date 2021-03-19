@@ -1,6 +1,6 @@
 
 //create temps arr here
-var temps = [
+var myPets = [
     var monday = [31, 32, 19, 37];
     var tuesday = [29, 27, 55, 36];
     var wednesday = [17, 27, 42, 46];
